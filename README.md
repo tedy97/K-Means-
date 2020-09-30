@@ -1,2 +1,2 @@
-# Machine Learning Algorithm K-Means 
-K-Means in C
+# Optimization of Machine Learning Algorithm K-Means 
+
