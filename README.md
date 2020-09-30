@@ -1,2 +1,2 @@
-# Machine Learning Algorithm K-Means Optimization using Vector Processing and OpenMP
+# Machine Learning Algorithm K-Means 
 K-Means in C
