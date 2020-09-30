@@ -1,2 +1,2 @@
-# K-Means-
-K-Means in C using Vector Proccessing of gcc compiler and OpenMP
+# Machine Learning Algorithm K-Means Optimization using Vector Processing and OpenMP
+K-Means in C
